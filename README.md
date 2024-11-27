@@ -1,5 +1,5 @@
 
-# dams
+# Dormitory management system
 基于vue+Element+servlet+mybatis的宿舍管理系统
 许多内容还未实现，后续还会更改，仅供学习使用
 ## 数据库连接
